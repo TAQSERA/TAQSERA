@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @TAQSERA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @TAQSERA
+Hi There, I’m TAQSERA and i am Front-End Web Developer. I’m working as web developer.i have developed many website and also provided my services to college students by getting their projects ready ASAP as a freelancer I have been part of some very good web design projects.
 
-<!---
-TAQSERA/TAQSERA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have done my graduation in Computer Science.
+
+My Skill Set : HTML5, CSS3, JavaScript.
